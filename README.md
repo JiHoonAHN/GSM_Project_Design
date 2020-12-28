@@ -1,4 +1,4 @@
-# GSM Project Design
+# GSM Festival Design
 #### 진짜 간략한 프로젝트 소개
 - 학교를 소개하거나 간접으로 학교를 체험 할 수 있는 웹이다. 
 
