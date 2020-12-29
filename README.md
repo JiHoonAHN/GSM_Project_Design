@@ -27,7 +27,7 @@
 ### <Strong>웹 디자인 </Strong>
 <div>
 <img width = "400" src = "https://user-images.githubusercontent.com/68891494/103233993-e1a18580-4981-11eb-928f-02fb8ec3cae8.png">
-<img width = "400" src = "https://user-images.githubusercontent.com/68891494/103234243-8328d700-4982-11eb-9868-333ac875ca7e.png">
+<img width = "400" src = "https://user-images.githubusercontent.com/68891494/103279497-48ba4b00-4a11-11eb-9f20-12c3f1415b61.png">
 <img width = "400" src ="https://user-images.githubusercontent.com/68891494/103234340-c97e3600-4982-11eb-8cd2-c8badbf3a09c.png">
 <img width = "400" src ="https://user-images.githubusercontent.com/68891494/103234435-064a2d00-4983-11eb-9d2b-02582c90f0d6.png">
 <img width = "400" src = "https://user-images.githubusercontent.com/68891494/103234507-35609e80-4983-11eb-9e58-1efec0306fdd.png">
