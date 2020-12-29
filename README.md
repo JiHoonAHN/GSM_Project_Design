@@ -25,6 +25,9 @@
 <hr/>
 
 ### <Strong>웹 디자인 </Strong>
+
+<hr/>
+
 <div>
 <img width = "400" src = "https://user-images.githubusercontent.com/68891494/103233993-e1a18580-4981-11eb-928f-02fb8ec3cae8.png">
 <img width = "400" src = "https://user-images.githubusercontent.com/68891494/103279497-48ba4b00-4a11-11eb-9f20-12c3f1415b61.png">
